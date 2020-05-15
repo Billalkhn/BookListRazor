@@ -29,9 +29,9 @@ namespace BookListRazor.Pages.BookList
         {
             if (ModelState.IsValid)
             {
-                await _db.Book.AddAsync(Book);
-                await _db.SaveChangesAsync();
-                return RedirectToPage("Index");
+                await _db.Book.AddAsync(Book); //add in queue
+                await _db.SaveChangesAsync();// push data into the database
+                return RedirectToPage("Index");// redirect to main page
             }
             else
             {

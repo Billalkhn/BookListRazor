@@ -416,3 +416,4 @@ C:\Users\Bilal\Documents\GitHub\BookListRazor\BookListRazor\BookListRazor\obj\De
 C:\Users\Bilal\Documents\GitHub\BookListRazor\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\index.cshtml.g.cs
 C:\Users\Bilal\Documents\GitHub\BookListRazor\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
 C:\Users\Bilal\Documents\GitHub\BookListRazor\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
+C:\Users\Bilal\Documents\GitHub\BookListRazor\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Upsert.cshtml.g.cs
